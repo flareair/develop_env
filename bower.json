@@ -1,0 +1,29 @@
+{
+  "name": "tests",
+  "version": "0.0.0",
+  "authors": [
+    "flareair <flareair0@gmail.com>"
+  ],
+  "description": "no",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css3",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "no",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
